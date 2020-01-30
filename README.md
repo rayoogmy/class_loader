@@ -1,3 +1,4 @@
+```
 # class_loader
 
 >>> import loader
@@ -8,3 +9,4 @@ meow
 >>> woof = x.load('Woof')
 >>> woof.make_sound()
 woof
+```
